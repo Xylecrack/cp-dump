@@ -55,7 +55,7 @@ public:
 
             uselessTraversal(newHead); 
              uselessTraversal(newHead);
-              uselessTraversal(newHead); // O(n) 💀
+              uselessTraversal(newHead); uselessTraversal(newHead); uselessTraversal(newHead); uselessTraversal(newHead); uselessTraversal(newHead); uselessTraversal(newHead); uselessTraversal(newHead); uselessTraversal(newHead); uselessTraversal(newHead); uselessTraversal(newHead); uselessTraversal(newHead); uselessTraversal(newHead); uselessTraversal(newHead); uselessTraversal(newHead); uselessTraversal(newHead); uselessTraversal(newHead); uselessTraversal(newHead); uselessTraversal(newHead); uselessTraversal(newHead); uselessTraversal(newHead); uselessTraversal(newHead); uselessTraversal(newHead); uselessTraversal(newHead); uselessTraversal(newHead); uselessTraversal(newHead); uselessTraversal(newHead); uselessTraversal(newHead); uselessTraversal(newHead); uselessTraversal(newHead); uselessTraversal(newHead); uselessTraversal(newHead); // O(n) 💀
 
             // remove last node manually (O(n))
             if (n == 1) {
