@@ -3,7 +3,7 @@ public:
     int maxDepth(string s) {
         stack<char> nested;
         int track=0;
-        for (auto& it : s) {
+        for (char it : s) {
             if (it == '(')
                 nested.push(it);
 
